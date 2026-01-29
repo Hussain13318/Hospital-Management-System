@@ -16,3 +16,7 @@ Fast response time (<100ms)
 Accurate patient record management
 Seamless C++ and Python integration via pybind11
 Easy-to-use, interactive GUI for hospital staff
+
+##Note
+2 Zip files are attached anyone can be used
+
